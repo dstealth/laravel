@@ -1,1 +1,5 @@
 .idea/
+.vagrant/
+apache-log/
+cookbooks/
+Vagrantfile
