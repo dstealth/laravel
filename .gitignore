@@ -3,3 +3,8 @@
 apache-log/
 cookbooks/
 Vagrantfile
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
